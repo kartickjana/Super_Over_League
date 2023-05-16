@@ -1,0 +1,19 @@
+/* Write your code here. */
+.heading {
+  text-align: center;
+  font-family: "roboto";
+  color: #f8fafc;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image {
+  height: 80px;
+  width: 70px;
+}
+.bg {
+  background-color: #0f172a;
+  height: 100vh;
+}
